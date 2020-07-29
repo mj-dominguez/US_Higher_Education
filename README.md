@@ -1,5 +1,5 @@
 # US_Higher_Education
-Michael-James/
-Natalia/
-Stephanie/
+Michael-James\n
+Natalia\n
+Stephanie\n
 Presentation link: https://onedrive.live.com/view.aspx?resid=5EA4D7F7C1FFFD81!6265&ithint=file%2cpptx&authkey=!AH-4IRmDI7qDaHE
